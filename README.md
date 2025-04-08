@@ -60,7 +60,7 @@ Map the ASA motherboard pins to the monitor VGA pins as follows:
 | 14      | Vertical Sync  | 14          | Vertical Sync  |
 
 JTAG pins on the ASA:
-
+```
  15 13 11  9  7  5  3  1
 +-----------------------+
 | O  O  O  O  O  O  O  O |
@@ -68,9 +68,10 @@ JTAG pins on the ASA:
 |    O  O  O  O  O  O  O |
 +-----------------------+
     14 12 10  8  6  4  2
+```
 
 Monitor side (male plug):
-
+```
  /----------------------------------------------\
  \        1      2      3      4      5         /
   \                                            /
@@ -78,7 +79,7 @@ Monitor side (male plug):
     \                                        /
      \   11     12     13     14     15     /
       \------------------------------------/
-
+```
 
 
 ## Usage Instructions
