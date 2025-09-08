@@ -59,7 +59,7 @@ Map the ASA motherboard pins to the monitor VGA pins as follows:
 | 13      | Horizontal Sync| 13          | Horizontal Sync|
 | 14      | Vertical Sync  | 14          | Vertical Sync  |
 
-JTAG pins on the ASA:
+VGA pins on the ASA:
 ```
  15 13 11  9  7  5  3  1
 +-----------------------+
