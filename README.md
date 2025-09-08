@@ -3,7 +3,7 @@ Cisco ASA Firewall (-x Models) 16-Pin VGA Pinout Guide
 
 # Cisco ASA Firewall (-x Models) 16-Pin VGA Pinout Guide
 
-This repository provides detailed information about the 16-pin VGA connector found on the motherboard of Cisco ASA firewalls with model numbers ending in `-x` (e.g., ASA 5506-X, ASA 5516-X). These models feature a unique 16-pin VGA header that differs from standard VGA connectors. This guide includes a pinout description, an ASCII diagram of the layout, and notes on connecting it to a monitor using female-to-female jumper wires.
+This repository provides detailed information about the 16-pin VGA connector found on the motherboard of Cisco ASA firewalls with model numbers ending in `-x` (e.g., ASA 5512-X, ASA 5515-X, ASA 5525-X, ASA 5545-X, ASA 5555-X). These models feature a unique 16-pin VGA header that differs from standard VGA connectors. This guide includes a pinout description, an ASCII diagram of the layout, and notes on connecting it to a monitor using female-to-female jumper wires.
 
 ## Overview
 
